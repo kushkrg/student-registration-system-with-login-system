@@ -31,7 +31,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 <!-- Navigation menu -->
 <nav class="navbar navbar-light bg-light">
     <a class="navbar-brand" href="#" style="font-size:36px;">
-    <img src="images/coding-cush-logo.png" width="50" height="50" class="d-inline-block align-top" alt="">
+    <img src="https://codingcush.com/uploads/logo/logo_61b79976c34f5.png" width="200"  class="d-inline-block align-top" alt="">
     Coding Cush
   </a>
 
