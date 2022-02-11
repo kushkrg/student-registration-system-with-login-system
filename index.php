@@ -83,7 +83,7 @@ if(isset($_POST['submit'])){
 <body>
 
 	<div class="container">
-<a href="https://lexacademy.in" target="_blank"><img src="https://lexacademy.in/wp-content/uploads/2021/07/lex-academy-online-learning-platform-1.png" alt="" width="350px" ></a><br><hr>
+<a href="https://lexacademy.in" target="_blank"><img src="https://codingcush.com/uploads/logo/logo_61b79976c34f5.png" alt="" width="350px" ></a><br><hr>
 
 <!-- adding alert notification  -->
 <?php
@@ -198,7 +198,7 @@ if(isset($_POST['submit'])){
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-		<center><img src="https://lexacademy.in/wp-content/uploads/2021/07/lex-academy-online-learning-platform-1.png" width="300px" height="80px" alt=""></center>
+		<center><img src="https://codingcush.com/uploads/logo/logo_61b79976c34f5.png" width="300px" height="80px" alt=""></center>
     
       </div>
       <div class="modal-body">
